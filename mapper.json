@@ -1,0 +1,31 @@
+{
+  "layer" : "/layer4/",
+  "mapping" : {
+    "884d66e34" : "clip3/connect",
+    "884c26e20" : "clip2/connect",
+    "884f86e1a" : "clip6/connect",
+    "884c36e21" : "clip5/connect",
+    "884d76e35" : "clip4/connect",
+    "884377dc6" : "clip12/connect",
+    "884357dc4" : "clip10/connect",
+    "884687d99" : "clip9/connect",
+    "884547da5" : "clip8/connect",
+    "884697d98" : "clip7/connect",
+    "8843b6bdc" : "clip19/connect",
+    "8844d6baa" : "clip18/connect",
+    "8848e6c6e" : "clip17/connect",
+    "884906c70" : "clip16/connect",
+    "8847b6c9b" : "clip15/connect",
+    "8848d6c6d" : "clip14/connect",
+    "8845d6cbd" : "clip13/connect",
+    "8843a6bdd" : "clip24/connect",
+    "884726c92" : "clip23/connect",
+    "884386bdf" : "clip25/connect",
+    "88420b21e" : "clip21/connect",
+    "88435b2b" : "clip22/connect",
+    "f436b9792" : "clip41/connect",
+    "80feec8b19" : "clip37/connect",
+    "519fb879f" : "clip36/connect",
+    "103086892f" : "clip35/connect"
+  }
+}

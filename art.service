@@ -1,0 +1,18 @@
+[Unit]
+Description=RFID Scanner to OSC
+After=network.service
+
+[Service]
+ExecStart=/usr/bin/python scanner.py
+WorkingDirectory=/home/pi/
+StandardOutput=inherit
+StandardError=inherit
+Restart=always
+RestartSec=5
+StartLimitInterval=600
+StartLimitBurst=100
+User=pi
+
+
+[Install]
+WantedBy=multi-user.target
